@@ -1,2 +1,3 @@
 Nuevo archivo
 cambios en rama b
+Un cambio exclusivo para este archivo en rama b
